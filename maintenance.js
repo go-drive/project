@@ -2,7 +2,7 @@
 https://github.com/vkive/comming-sooon.git
 Follow me on Codepen
 */    
-var countDownDate = new Date("Jan 24, 2022 00:00:00").getTime();
+var countDownDate = new Date("Jan 24, 2025 00:00:00").getTime();
             var x= setInterval(function(){
                 var now = new Date().getTime();
                 var distance = countDownDate - now;
